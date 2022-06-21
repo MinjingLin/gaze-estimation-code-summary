@@ -5,6 +5,10 @@ For 3D gaze estimation: [MPIIGaze](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/
 For 2D gaze estimation: [GazeCapture](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#gazecapture), [MPIIFaceGaze](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#mpiifacegaze), [EyeDiap](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#eyediap)
 
 ## Gaze estimation works
+* L2CS-Net: Fine-Grained Gaze Estimation in Unconstrained Environments, ICIP2022"under review". ([official-code](https://github.com/ahmednull/l2cs-net))
+
+![image](https://user-images.githubusercontent.com/26761880/174731320-ec233cce-8659-4202-a470-57902cda5952.png)
+
 * Gaze Estimation using Transformer, ICPR 2022. ([official-code](https://github.com/yihuacheng/GazeTR))
 
 ![image](https://user-images.githubusercontent.com/26761880/174578497-040b633d-edd2-4b09-ac2a-1215f875fe85.png)
@@ -13,11 +17,15 @@ For 2D gaze estimation: [GazeCapture](http://phi-ai.buaa.edu.cn/Gazehub/2D-datas
 
 ![image](https://user-images.githubusercontent.com/26761880/174579784-3a71b6ff-40b8-41e0-ba34-0ab9be7aea6d.png)
 
+* Gaze Estimation with an Ensemble of Four Architectures, ETH-XGaze Competition 2021. ([official-code](https://github.com/VIPL-TAL-GAZE/GAZE2021))
+
+![image](https://user-images.githubusercontent.com/26761880/174730323-2aa32f6c-a0a2-47ca-bbc3-d1622a9a1256.png)
+
 * ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation, ECCV2020. ([official-codel](https://github.com/xucong-zhang/ETH-XGaze))
 
 ![image](https://user-images.githubusercontent.com/26761880/174726434-db9c5db8-20a5-441d-a126-0c63cc83afae.png)
 
-* FAZE: Few-Shot Adaptive Gaze Estimation, ICCV2-19. ([official-code](https://github.com/NVlabs/few_shot_gaze))
+* FAZE: Few-Shot Adaptive Gaze Estimation, ICCV2019. ([official-code](https://github.com/NVlabs/few_shot_gaze))
 
 ![image](https://user-images.githubusercontent.com/26761880/174726747-b613a88e-6631-4e4a-acea-f33b6b1394ee.png)
 
@@ -40,6 +48,10 @@ For 2D gaze estimation: [GazeCapture](http://phi-ai.buaa.edu.cn/Gazehub/2D-datas
 * RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments, ECCV 2018. ([official-code](https://github.com/Tobias-Fischer/rt_gene), [code1](https://github.com/yihuacheng/RT-Gene))
 
 ![image](https://user-images.githubusercontent.com/26761880/174702999-4893ca77-5146-40d9-8f06-8cc84aedd5dc.png)
+
+* Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues, BMVC2018. ([official-code](https://github.com/crisie/RecurrentGaze))
+
+![image](https://user-images.githubusercontent.com/26761880/174731642-14741890-5f49-4545-a733-4ef7e1cea0df.png)
 
 * MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation, TPAMI 2017. ([code1](https://github.com/yihuacheng/Gaze-Net))
 
