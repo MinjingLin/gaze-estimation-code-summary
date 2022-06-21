@@ -4,7 +4,7 @@ For 3D gaze estimation: [MPIIGaze](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/
 
 For 2D gaze estimation: [GazeCapture](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#gazecapture), [MPIIFaceGaze](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#mpiifacegaze), [EyeDiap](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#eyediap)
 
-## gaze estimation works
+## Gaze estimation works
 * Gaze Estimation using Transformer, ICPR 2022. ([official-code](https://github.com/yihuacheng/GazeTR))
 
 ![image](https://user-images.githubusercontent.com/26761880/174578497-040b633d-edd2-4b09-ac2a-1215f875fe85.png)
