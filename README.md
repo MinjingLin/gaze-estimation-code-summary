@@ -1,6 +1,8 @@
 # gaze-estimation-code-summary
 ## Data pre-processing code.
-For 3D gaze estimation: [MPIIGaze](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#mpiigaze), [MPIIFaceGaze-1](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#mpiifacegaze), [MPIIFaceGaze-2](https://github.com/swook/faze_preprocess), [GazeCapture](https://github.com/swook/faze_preprocess), [Eyediap(eye)](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eyediap-eye), [Eyediap(face)](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eyediap-face), [UT-Multiview](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#ut-multiview), [ETH-XGaze](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eth-xgaze), [Gaze360](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#gaze360), [Rt-Gene](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#rt-gene)
+For 3D gaze estimation: [MPIIGaze](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#mpiigaze), [MPIIFaceGaze-gazehub](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#mpiifacegaze), [MPIIFaceGaze-swook](https://github.com/swook/faze_preprocess), [GazeCapture](https://github.com/swook/faze_preprocess), [Eyediap(eye)](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eyediap-eye), [Eyediap(face)](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eyediap-face), [UT-Multiview](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#ut-multiview),
+[ETH-XGaze_xuchong](https://github.com/xucong-zhang/ETH-XGaze/blob/7803922ce0eb7015485e2a78e9f8afff0f9db7a6/normalization_example.py#L39),
+[ETH-XGaze_gazehub](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#eth-xgaze), [Gaze360](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#gaze360), [Rt-Gene](http://phi-ai.buaa.edu.cn/Gazehub/3D-dataset/#rt-gene)
 
 For 2D gaze estimation: [GazeCapture](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#gazecapture), [MPIIFaceGaze](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#mpiifacegaze), [EyeDiap](http://phi-ai.buaa.edu.cn/Gazehub/2D-dataset/#eyediap)
 
